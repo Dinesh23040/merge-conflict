@@ -12,7 +12,11 @@ Initial Security()
 
 feature1()
 {
-	//feature1
+feature1
+}
+security patch()
+{
+//security patch
 }
 
 }
